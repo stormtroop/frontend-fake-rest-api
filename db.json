@@ -1,243 +1,243 @@
 {
-  "payments": [
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 31.6800,
-      "currency": "USD",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 18
-    },
-    {
-      "status": "failure",
-      "title": "Gamecloud",
-      "amount": 3.8000,
-      "currency": "CHF",
-      "method_id": 28
-    },
-    {
-      "status": "failure",
-      "title": "Gamecloud",
-      "amount": 3.8000,
-      "currency": "CHF",
-      "method_id": 28
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 18
-    },
-    {
-      "status": "created",
-      "title": "Account charge",
-      "amount": 7.5800,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 7.5800,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "created",
-      "title": "Recurring Payment",
-      "amount": 14.8200,
-      "currency": "EUR",
-      "method_id": 28
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 3.8000,
-      "currency": "CHF",
-      "method_id": 28
-    },
-    {
-      "status": "created",
-      "title": "Account charge",
-      "amount": 6.3400,
-      "currency": "CHF",
-      "method_id": 31
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 16.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 6.3400,
-      "currency": "CHF",
-      "method_id": 28
-    },
-    {
-      "status": "failure",
-      "title": "Gamecloud",
-      "amount": 36.5800,
-      "currency": "SAR",
-      "method_id": 28
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 4.7000,
-      "currency": "EUR",
-      "method_id": 31
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 12.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 28.5600,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "created",
-      "title": "Gamecloud",
-      "amount": 10.4000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "created",
-      "title": "Account charge",
-      "amount": 1.5000,
-      "currency": "EUR",
-      "method_id": 18
-    },
-    {
-      "status": "created",
-      "title": "Gamecloud",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Recurring Payment",
-      "amount": 6.0000,
-      "currency": "EUR",
-      "method_id": 28
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 18
-    },
-    {
-      "status": "created",
-      "title": "Account charge",
-      "amount": 7.5800,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 7.5800,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "created",
-      "title": "Recurring Payment",
-      "amount": 14.8200,
-      "currency": "EUR",
-      "method_id": 28
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 3.8000,
-      "currency": "CHF",
-      "method_id": 28
-    },
-    {
-      "status": "created",
-      "title": "Account charge",
-      "amount": 6.3400,
-      "currency": "CHF",
-      "method_id": 31
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 16.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Gamecloud",
-      "amount": 9.0000,
-      "currency": "EUR",
-      "method_id": 30
-    },
-    {
-      "status": "success",
-      "title": "Account charge",
-      "amount": 6.3400,
-      "currency": "CHF",
-      "method_id": 28
-    },
-  ],
-  "methods": [
-    {
-      "id": 2,
-      "name": "Credit Card"
-    },
-    {
-      "id": 18,
-      "name": "Sofortüberweisung"
-    },
-    {
-      "id": 23,
-      "name": "iDEAL"
-    },
-    {
-      "id": 28,
-      "name": "Credit Card"
-    },
-    {
-      "id": 30,
-      "name": "PayPal"
-    },
-    {
-      "id": 31,
-      "name": "Paysafecard"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "payments":[
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":31.6800,
+         "currency":"USD",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":18
+      },
+      {
+         "status":"failure",
+         "title":"Gamecloud",
+         "amount":3.8000,
+         "currency":"CHF",
+         "method_id":28
+      },
+      {
+         "status":"failure",
+         "title":"Gamecloud",
+         "amount":3.8000,
+         "currency":"CHF",
+         "method_id":28
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":18
+      },
+      {
+         "status":"created",
+         "title":"Account charge",
+         "amount":7.5800,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":7.5800,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"created",
+         "title":"Recurring Payment",
+         "amount":14.8200,
+         "currency":"EUR",
+         "method_id":28
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":3.8000,
+         "currency":"CHF",
+         "method_id":28
+      },
+      {
+         "status":"created",
+         "title":"Account charge",
+         "amount":6.3400,
+         "currency":"CHF",
+         "method_id":31
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":16.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":6.3400,
+         "currency":"CHF",
+         "method_id":28
+      },
+      {
+         "status":"failure",
+         "title":"Gamecloud",
+         "amount":36.5800,
+         "currency":"SAR",
+         "method_id":28
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":4.7000,
+         "currency":"EUR",
+         "method_id":31
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":12.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":28.5600,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"created",
+         "title":"Gamecloud",
+         "amount":10.4000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"created",
+         "title":"Account charge",
+         "amount":1.5000,
+         "currency":"EUR",
+         "method_id":18
+      },
+      {
+         "status":"created",
+         "title":"Gamecloud",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Recurring Payment",
+         "amount":6.0000,
+         "currency":"EUR",
+         "method_id":28
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":18
+      },
+      {
+         "status":"created",
+         "title":"Account charge",
+         "amount":7.5800,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":7.5800,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"created",
+         "title":"Recurring Payment",
+         "amount":14.8200,
+         "currency":"EUR",
+         "method_id":28
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":3.8000,
+         "currency":"CHF",
+         "method_id":28
+      },
+      {
+         "status":"created",
+         "title":"Account charge",
+         "amount":6.3400,
+         "currency":"CHF",
+         "method_id":31
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":16.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Gamecloud",
+         "amount":9.0000,
+         "currency":"EUR",
+         "method_id":30
+      },
+      {
+         "status":"success",
+         "title":"Account charge",
+         "amount":6.3400,
+         "currency":"CHF",
+         "method_id":28
+      }
+   ],
+   "methods":[
+      {
+         "id":2,
+         "name":"Credit Card"
+      },
+      {
+         "id":18,
+         "name":"Sofortüberweisung"
+      },
+      {
+         "id":23,
+         "name":"iDEAL"
+      },
+      {
+         "id":28,
+         "name":"Credit Card"
+      },
+      {
+         "id":30,
+         "name":"PayPal"
+      },
+      {
+         "id":31,
+         "name":"Paysafecard"
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
