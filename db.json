@@ -3326,16 +3326,30 @@
       "method_id": 30
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
+  "methods": [
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Credit Card"
+    },
+    {
+      "id": 18,
+      "name": "Sofortüberweisung"
+    },
+    {
+      "id": 23,
+      "name": "iDEAL"
+    },
+    {
+      "id": 28,
+      "name": "Credit Card"
+    },
+    {
+      "id": 30,
+      "name": "PayPal"
+    },
+    {
+      "id": 31,
+      "name": "Paysafecard"
     }
   ],
   "profile": {
